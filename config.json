@@ -1,0 +1,51 @@
+{
+  "user_id": 1,
+  "playlist_id": 76,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "التاريخ",
+  "hidden": false,
+  "media": [
+    {
+      "title": "تاريخ الخلفاء الراشدين | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:10:19",
+      "link": "https://www.youtube.com/watch?v=xg--v9RenCk",
+      "transcript_txt": "xg--v9RenCk.txt",
+      "transcript_srt": "xg--v9RenCk.srt"
+    },
+    {
+      "title": "تاريخ الخلفاء الراشدين | المحاضرة الثانية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:48:47",
+      "link": "https://www.youtube.com/watch?v=PWy9D0wYZEE",
+      "transcript_txt": "PWy9D0wYZEE.txt",
+      "transcript_srt": "PWy9D0wYZEE.srt"
+    },
+    {
+      "title": "تاريخ الخلفاء الراشدين | المحاضرة الثالثة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:51:04",
+      "link": "https://www.youtube.com/watch?v=3H0u6Lh3FmY",
+      "transcript_txt": "3H0u6Lh3FmY.txt",
+      "transcript_srt": "3H0u6Lh3FmY.srt"
+    },
+    {
+      "title": "تاريخ الخلفاء الراشدين | المحاضرة الرابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:22:39",
+      "link": "https://www.youtube.com/watch?v=ZpEQDia2GWU",
+      "transcript_txt": "ZpEQDia2GWU.txt",
+      "transcript_srt": "ZpEQDia2GWU.srt"
+    },
+    {
+      "title": "تاريخ الخلفاء الراشدين | المحاضرة الخامسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:38:03",
+      "link": "https://www.youtube.com/watch?v=VtJO9fujQtg",
+      "transcript_txt": "VtJO9fujQtg.txt",
+      "transcript_srt": "VtJO9fujQtg.srt"
+    }
+  ]
+}
